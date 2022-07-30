@@ -1,9 +1,9 @@
-# Memories
+# Memoir
 
-![Memories](https://i.ibb.co/7CmVbCW/image.png)
+
 
 ## Introduction
-This is a code repository for the corresponding video tutorial - https://youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu.
+A webapp that allows users to store their good experiences & memories of their life, basically a sort of ”e-diary"
 
 Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
 
